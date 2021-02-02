@@ -14,7 +14,8 @@ yolo 모델 비교 / 모델 선정
 github.com 저장완료
 
 2) 모델 선정\
-선정 모델\
+선정 모델
+
 4. Yolov4 -Tiny-DarkNet\
 : Yolov4(DarkNet)과 비교 했을 때 정밀도(precision)와 재현율(recall)이 별차이 없고 \
 Model Training Test Speed도 몇 배 더 빠르므로 선정하였습니다.
