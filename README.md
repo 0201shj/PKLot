@@ -19,3 +19,9 @@ github.com 저장완료
 4. Yolov4 -Tiny-DarkNet\
 : Yolov4(DarkNet)과 비교 했을 때 정밀도(precision)와 재현율(recall)이 별차이 없고 \
 Model Training Test Speed도 몇 배 더 빠르므로 선정하였습니다.
+------------------------------
+
+Data : 2021-02-08
+-----------------
+Yolov4-Tiny-DarkNet에서 Yolov5로 변경
+
